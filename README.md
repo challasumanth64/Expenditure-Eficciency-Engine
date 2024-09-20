@@ -1,7 +1,7 @@
 Expenditure-Efficiency-Management
 Here’s the information in points:
 
-Expenditure Efficiency Engine:
+Expenditure Efficiency Management:
 
 Purpose: Streamlines tracking and managing personal finances.
 User Authentication Module:
